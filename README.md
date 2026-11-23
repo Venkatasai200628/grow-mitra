@@ -152,8 +152,8 @@ GrowMitra implements a strict client-side **Bring Your Own Key (BYOK)** framewor
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Venkatasai200628/social-growth-copilot.git
-cd social-growth-copilot
+git clone https://github.com/Venkatasai200628/grow-mitra.git
+cd grow-mitra
 ```
 
 ### 2. Install dependencies
@@ -204,7 +204,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 GrowMitra is deployed on the Vercel Edge Network:
 * **Production Live URL:** [https://social-growth-copilot.vercel.app](https://social-growth-copilot.vercel.app)
-* **GitHub Repository:** [https://github.com/Venkatasai200628/social-growth-copilot](https://github.com/Venkatasai200628/social-growth-copilot)
+* **GitHub Repository:** [https://github.com/Venkatasai200628/grow-mitra](https://github.com/Venkatasai200628/grow-mitra)
 
 ---
 
